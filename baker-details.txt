@@ -1,0 +1,6 @@
+Amrit Chocolate 3 2
+Amrit Brownie 4 1
+Amrit Peach 5 3
+Default Pumpkin 3 2
+Default Pecan 3 2
+Default Apple 3 1
